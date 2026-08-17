@@ -1,0 +1,388 @@
+{
+  "generated_date": "2026-08-17",
+  "budget_range_sek": [
+    5500000,
+    6500000
+  ],
+  "projects": [
+    {
+      "name": "Avenue – Nacka Nouveau",
+      "developer": "OBOS",
+      "municipality": "Nacka",
+      "link": "https://obos.se/bostad/projekt/avenue",
+      "construction_start_year": 2026,
+      "completion_year": 2029,
+      "price_range_sek": "Not published; target filter 5.5–6.5M",
+      "strengths": [
+        "Centrala Nacka",
+        "2029 delivery",
+        "Pre-sale/interest registration before launch",
+        "Metro expansion potential",
+        "OBOS priority via membership"
+      ],
+      "weaknesses": [
+        "Price not yet published",
+        "Bostadsrätt, not ägarlägenhet",
+        "Future development/metro execution risk"
+      ],
+      "rank": "A / 5.0"
+    },
+    {
+      "name": "Freya – Centrala Nacka",
+      "developer": "JM",
+      "municipality": "Nacka",
+      "link": "https://www.jm.se/stockholm-lan/nacka-kommun/centrala-nacka/freya/",
+      "construction_start_year": 2026,
+      "completion_year": 2028,
+      "price_range_sek": "approx. 5.0–6.0M relevant units",
+      "strengths": [
+        "Centrala Nacka",
+        "Ägarlägenhet",
+        "2028 delivery",
+        "Good rental flexibility",
+        "Strong transport/location"
+      ],
+      "weaknesses": [
+        "Less common ownership model may narrow resale market",
+        "Need to verify exact current unit economics"
+      ],
+      "rank": "A- / 4.5"
+    },
+    {
+      "name": "Podium – Nacka",
+      "developer": "Besqab",
+      "municipality": "Nacka",
+      "link": "https://www.besqab.se/stockholm/nacka/podium/",
+      "construction_start_year": 2026,
+      "completion_year": 2028,
+      "price_range_sek": "4.995–5.995M relevant units",
+      "strengths": [
+        "2028 delivery",
+        "3–4 room options",
+        "95m²/4 rok around 5.995M",
+        "Small project"
+      ],
+      "weaknesses": [
+        "Saltängen is less central than Centrala Nacka",
+        "Bostadsrätt BRF economics need checking"
+      ],
+      "rank": "A- / 4.5"
+    },
+    {
+      "name": "Vyn – Huvudsta",
+      "developer": "JM",
+      "municipality": "Solna",
+      "link": "https://www.jm.se/stockholm-lan/solna-kommun/huvudsta-strandpark/vyn/",
+      "construction_start_year": 2026,
+      "completion_year": 2028,
+      "price_range_sek": "approx. 4.89–5.89M relevant units",
+      "strengths": [
+        "2028 delivery",
+        "84m²/4 rok around 5.39M",
+        "Solna location",
+        "Good price per m²"
+      ],
+      "weaknesses": [
+        "Not central Solna/Arenastaden",
+        "BRF financials need checking"
+      ],
+      "rank": "A- / 4.5"
+    },
+    {
+      "name": "Stationshuset – Solna",
+      "developer": "Besqab",
+      "municipality": "Solna",
+      "link": "https://www.besqab.se/stockholm/solna/stationshuset/",
+      "construction_start_year": 2026,
+      "completion_year": 2028,
+      "price_range_sek": "5.095–5.995M relevant units",
+      "strengths": [
+        "Arenastaden location",
+        "2028 delivery",
+        "3–4 rok in budget",
+        "Strong transit/amenities"
+      ],
+      "weaknesses": [
+        "Arenastaden supply is high",
+        "BRF debt/fees need checking"
+      ],
+      "rank": "A / 5.0"
+    },
+    {
+      "name": "Lokatten – Axelsberg",
+      "developer": "JM",
+      "municipality": "Stockholm",
+      "link": "https://www.jm.se/stockholm-lan/stockholm-kommun/hagersten/lokatten/",
+      "construction_start_year": 2026,
+      "completion_year": 2029,
+      "price_range_sek": "approx. 5.14–6.365M relevant units",
+      "strengths": [
+        "2029 delivery",
+        "83m²/3 rok around 5.29M",
+        "26-storey building and views",
+        "Near Mälaren and metro",
+        "Strong value per m²"
+      ],
+      "weaknesses": [
+        "Axelsberg less central than Telefonplan",
+        "Bostadsrätt",
+        "Need BRF financial analysis"
+      ],
+      "rank": "A / 5.0"
+    },
+    {
+      "name": "Bella – Telefonplan",
+      "developer": "JM",
+      "municipality": "Stockholm",
+      "link": "https://www.jm.se/stockholm-lan/stockholm-kommun/hagersten/bella/31104/",
+      "construction_start_year": 2026,
+      "completion_year": 2028,
+      "price_range_sek": "approx. 6.24M relevant 4 rok/3 rok",
+      "strengths": [
+        "Telefonplan urban location",
+        "89m²/4 rok around 6.24M",
+        "2028 delivery",
+        "Good layouts"
+      ],
+      "weaknesses": [
+        "Unit 31104 is on low floor",
+        "North-facing balcony",
+        "Higher fee than some alternatives"
+      ],
+      "rank": "B+ / 4.3"
+    },
+    {
+      "name": "Fredman – Hägersten",
+      "developer": "Bonava",
+      "municipality": "Stockholm",
+      "link": "https://www.bonava.se/bostad/stockholm/hagersten/fredman",
+      "construction_start_year": 2026,
+      "completion_year": 2028,
+      "price_range_sek": "approx. 4.695–5.995M relevant units",
+      "strengths": [
+        "Inside Stockholm municipality",
+        "75m²/3 rok around 5.395M",
+        "2028 delivery",
+        "Good budget fit"
+      ],
+      "weaknesses": [
+        "Less central than Marievik",
+        "Unit prices vary significantly by floor",
+        "BRF economics need checking"
+      ],
+      "rank": "B+ / 4.3"
+    },
+    {
+      "name": "Rex – Marieviks Udde",
+      "developer": "JM",
+      "municipality": "Stockholm",
+      "link": "https://www.jm.se/stockholm-lan/stockholm-kommun/marieviks-udde/rex/",
+      "construction_start_year": 2025,
+      "completion_year": 2028,
+      "price_range_sek": "2.84–14.3M project range; relevant current units around 6.39–6.49M",
+      "strengths": [
+        "Waterfront 60m from water",
+        "Near Hornstull/Liljeholmen",
+        "Major 630-home district development",
+        "2028 delivery",
+        "Strong urban location"
+      ],
+      "weaknesses": [
+        "Higher price per m²",
+        "Some units exceed budget",
+        "Bostadsrätt"
+      ],
+      "rank": "A / 5.0"
+    },
+    {
+      "name": "Kungsliljan – Järvastaden",
+      "developer": "JM",
+      "municipality": "Solna",
+      "link": "https://www.jm.se/stockholm-lan/solna-kommun/jarvastaden/kungsliljan/",
+      "construction_start_year": 2026,
+      "completion_year": 2028,
+      "price_range_sek": "Not reliably captured",
+      "strengths": [
+        "Järvastaden development",
+        "2028 timeframe",
+        "Family-oriented area"
+      ],
+      "weaknesses": [
+        "Farther from Stockholm city core",
+        "Price/BRF economics require current verification"
+      ],
+      "rank": "B / 4.0"
+    },
+    {
+      "name": "Väsjön – Sollentuna",
+      "developer": "Riksbyggen",
+      "municipality": "Sollentuna",
+      "link": "https://www.riksbyggen.se/bostad/stockholms-lan/sollentuna/bostadsratter/vasjon/",
+      "construction_start_year": 2026,
+      "completion_year": 2028,
+      "price_range_sek": "Not reliably captured",
+      "strengths": [
+        "Large planned district",
+        "2028–29 development potential",
+        "Potentially better value per m²"
+      ],
+      "weaknesses": [
+        "Outside Stockholm municipality",
+        "Longer commute",
+        "BRF economics need checking"
+      ],
+      "rank": "B / 4.0"
+    },
+    {
+      "name": "Alkemisten",
+      "developer": "Nordr",
+      "municipality": "Stockholm area",
+      "link": "https://www.nordr.com/se/hitta-din-bostad/alkemisten/till-salu",
+      "construction_start_year": 2026,
+      "completion_year": 2028,
+      "price_range_sek": "Not reliably captured",
+      "strengths": [
+        "Central/inner-city-oriented location",
+        "Good investment potential if pricing fits",
+        "Active sales"
+      ],
+      "weaknesses": [
+        "Exact current price/unit data needs re-check",
+        "BRF economics need checking"
+      ],
+      "rank": "A- / 4.5"
+    },
+    {
+      "name": "Ture Allé",
+      "developer": "Klövern",
+      "municipality": "Stockholm area",
+      "link": "https://klovern.se/bostader/ture-alle/5759/",
+      "construction_start_year": 2026,
+      "completion_year": 2028,
+      "price_range_sek": "Not reliably captured",
+      "strengths": [
+        "Urban location",
+        "New development"
+      ],
+      "weaknesses": [
+        "Price/current availability need re-check",
+        "Less compelling than top Tier A options"
+      ],
+      "rank": "B / 4.0"
+    },
+    {
+      "name": "Norrberget Storgården",
+      "developer": "Besqab",
+      "municipality": "Vaxholm",
+      "link": "https://www.besqab.se/stockholm/vaxholm/norrberget-storgarden/",
+      "construction_start_year": 2026,
+      "completion_year": 2028,
+      "price_range_sek": "Not reliably captured",
+      "strengths": [
+        "Vaxholm lifestyle",
+        "Summer 2028 delivery",
+        "Svanenmärkt"
+      ],
+      "weaknesses": [
+        "Outside Stockholm municipality",
+        "Lower investment/liquidity appeal for user's stated goal"
+      ],
+      "rank": "C+ / 3.5"
+    },
+    {
+      "name": "Ekerö Strand",
+      "developer": "Skanska",
+      "municipality": "Ekerö",
+      "link": "https://bostad.skanska.se/sok-bostad/stockholm/ekero/ekero-strand/",
+      "construction_start_year": 2026,
+      "completion_year": 2028,
+      "price_range_sek": "Not reliably captured",
+      "strengths": [
+        "Waterfront/lifestyle",
+        "New development"
+      ],
+      "weaknesses": [
+        "Outside Stockholm municipality",
+        "Longer commute",
+        "Less aligned with city-center preference"
+      ],
+      "rank": "C+ / 3.5"
+    },
+    {
+      "name": "Hornsbergskvarteren",
+      "developer": "Stockholm stad / Växer Stockholm",
+      "municipality": "Stockholm",
+      "link": "https://vaxer.stockholm/projekt/kristineberg/hornsbergskvarteren/",
+      "construction_start_year": null,
+      "completion_year": 2028,
+      "price_range_sek": "Not reliably captured; project-level pricing not applicable",
+      "strengths": [
+        "Very strong inner-city location",
+        "Waterfront/Kungsholmen",
+        "Major urban development",
+        "High long-term desirability"
+      ],
+      "weaknesses": [
+        "Municipal development rather than one active private presale",
+        "Specific purchasable unit/pricing requires separate developer projects"
+      ],
+      "rank": "A / 5.0"
+    },
+    {
+      "name": "Ängby Park",
+      "developer": "Stena Fastigheter",
+      "municipality": "Stockholm",
+      "link": "https://brf.stenafastigheter.se/angby",
+      "construction_start_year": 2026,
+      "completion_year": 2028,
+      "price_range_sek": "Not reliably captured",
+      "strengths": [
+        "Stockholm municipality",
+        "New-build project",
+        "Residential area"
+      ],
+      "weaknesses": [
+        "Less central",
+        "Current presale/unit details need re-check"
+      ],
+      "rank": "B / 4.0"
+    },
+    {
+      "name": "Haga Vista",
+      "developer": "Besqab",
+      "municipality": "Stockholm",
+      "link": "https://www.besqab.se/stockholm/",
+      "construction_start_year": null,
+      "completion_year": 2028,
+      "price_range_sek": "Not reliably captured",
+      "strengths": [
+        "Hagastaden location",
+        "Strong central-city demand",
+        "Excellent long-term location"
+      ],
+      "weaknesses": [
+        "Project/unit status and pricing need current verification"
+      ],
+      "rank": "A / 5.0"
+    },
+    {
+      "name": "Fransyskan",
+      "developer": "Besqab",
+      "municipality": "Stockholm",
+      "link": "https://www.besqab.se/hitta-bostad/",
+      "construction_start_year": null,
+      "completion_year": 2028,
+      "price_range_sek": "Not reliably captured",
+      "strengths": [
+        "Slakthusområdet redevelopment",
+        "Good transport and urban growth story",
+        "2028 timeframe"
+      ],
+      "weaknesses": [
+        "Pricing/unit availability need current verification",
+        "Large-area redevelopment execution risk"
+      ],
+      "rank": "A / 5.0"
+    }
+  ]
+}
