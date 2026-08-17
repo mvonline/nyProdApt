@@ -325,14 +325,21 @@ with tab_map:
     st.caption(f"{len(geo)} of {len(f)} filtered projects have coordinates. Run `python3 enrich.py` to geocode more.")
     center = [59.3293, 18.0686]  # Stockholm
     m = folium.Map(location=center, zoom_start=10, tiles="OpenStreetMap")
-    # A fixed zoom/center cuts off outlying pins (Vaxholm, Danderyd, Sollentuna,
+    # A fixed zoom cuts off outlying pins (Vaxholm, Danderyd, Sollentuna,
     # anything outside the county, ...) — they're on the map but outside the
-    # initial viewport, which reads as "missing". Fit the view to whatever is
-    # actually being shown instead of guessing a center/zoom.
+    # initial viewport, which reads as "missing". But the map's center must
+    # stay Stockholm, not drift toward wherever the filtered pins happen to
+    # cluster — so build a bounding box that is symmetric *around the fixed
+    # Stockholm center* (sized to the farthest pin in each direction) rather
+    # than a plain min/max box of the pins themselves. fit_bounds() centers on
+    # a box's midpoint, and the midpoint of a center-symmetric box is exactly
+    # that center.
     if not geo.empty:
+        lat_delta = max((geo["lat"] - center[0]).abs().max(), 0.05)
+        lon_delta = max((geo["lon"] - center[1]).abs().max(), 0.05)
         bounds = [
-            [geo["lat"].min(), geo["lon"].min()],
-            [geo["lat"].max(), geo["lon"].max()],
+            [center[0] - lat_delta, center[1] - lon_delta],
+            [center[0] + lat_delta, center[1] + lon_delta],
         ]
         m.fit_bounds(bounds, padding=(20, 20))
     # Several projects share identical fallback (municipality-level) coordinates
